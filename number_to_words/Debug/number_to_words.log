@@ -1,0 +1,26 @@
+﻿Build started 2/7/2018 12:55:23 PM.
+     1>Project "C:\Users\OLORONDU CHUKWUEMEKA\documents\visual studio 2010\Projects\number_to_words\number_to_words\number_to_words.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\number_to_words.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt number_speech_sub.cpp number_to_speech.cpp
+         number_to_speech.cpp
+         Generating Code...
+         Compiling...
+         number_speech_sub.cpp
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\OLORONDU CHUKWUEMEKA\documents\visual studio 2010\Projects\number_to_words\Debug\number_to_words.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\number_to_words.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\OLORONDU CHUKWUEMEKA\documents\visual studio 2010\Projects\number_to_words\Debug\number_to_words.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\OLORONDU CHUKWUEMEKA\documents\visual studio 2010\Projects\number_to_words\Debug\number_to_words.lib" /MACHINE:X86 Debug\number_speech_sub.obj
+         Debug\number_to_speech.obj
+         LINK : C:\Users\OLORONDU CHUKWUEMEKA\documents\visual studio 2010\Projects\number_to_words\Debug\number_to_words.exe not found or not built by the last incremental link; performing full link
+         number_to_words.vcxproj -> C:\Users\OLORONDU CHUKWUEMEKA\documents\visual studio 2010\Projects\number_to_words\Debug\number_to_words.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\OLORONDU CHUKWUEMEKA\documents\visual studio 2010\Projects\number_to_words\Debug\number_to_words.exe;#1" /manifest Debug\number_to_words.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\number_to_words.unsuccessfulbuild".
+         Touching "Debug\number_to_words.lastbuildstate".
+     1>Done Building Project "C:\Users\OLORONDU CHUKWUEMEKA\documents\visual studio 2010\Projects\number_to_words\number_to_words\number_to_words.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.47
